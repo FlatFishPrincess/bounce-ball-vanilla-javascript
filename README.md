@@ -1,4 +1,8 @@
 # bounce-ball-vanilla-javascript
+
+## General info
+This project is a bounce ball game using vanilla javascript
+	
 Link <br />
 https://bounce-ball-vanilla-js.herokuapp.com/ 
 
@@ -7,3 +11,9 @@ https://bounce-ball-vanilla-js.herokuapp.com/
 
 ## Mobile
 <img src="images/mobile.png" width="50%" />
+
+## Technologies
+Project is created with:
+* JavaScript
+* HTML/CSS
+
