@@ -1,1 +1,1 @@
-<?php include_once("./Site Root/rebound.html"); ?>
+<?php include_once("rebound.html"); ?>
