@@ -10,7 +10,7 @@ https://bounce-ball-vanilla-js.herokuapp.com/
 <img src="images/desktop.png" width="70%" />
 
 ## Mobile
-<img src="images/mobile.png" width="50%" />
+<img src="images/mobile.png" height="300px" />
 
 ## Technologies
 Project is created with:
